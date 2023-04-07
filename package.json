@@ -1,0 +1,17 @@
+{
+  "name": "day12-socket.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {  
+    "express": "^4.18.2",
+    "socket.io": "^4.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "install": "npm install express socket.io"
+  },
+  "author": "",
+  "license": "ISC"
+}
